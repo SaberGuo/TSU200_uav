@@ -1,0 +1,9 @@
+int32 id
+geometry_msgs/Point HomePos
+int32 PosNum
+tsu200/Pos[] PosList
+---
+int32 id
+bool success
+int32 status_code
+string message

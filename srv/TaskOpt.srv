@@ -1,0 +1,6 @@
+string opt
+int32 id
+---
+bool success
+int32 status_code
+string message
